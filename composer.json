@@ -1,0 +1,38 @@
+{
+  "name": "aone/think-qrcode",
+  "description": "QR code generation for thinkphp6",
+  "keywords": [
+    "thinkphp",
+    "think-qrcode",
+    "qrcode",
+    "thinkphp6"
+  ],
+  "homepage": "https://github.com/chaoyong213/think-qrcode",
+  "type": "think-extend",
+  "minimum-stability": "stable",
+  "version": "1.1",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "aone",
+      "email": "840620053@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.0",
+    "topthink/framework": "^6.0.0",
+    "ext-gd": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "keinx\\qrcode\\": "src/"
+    }
+  },
+  "extra": {
+    "think": {
+      "config": {
+        "qrcode": "src/config/qrcode.php"
+      }
+    }
+  }
+}
