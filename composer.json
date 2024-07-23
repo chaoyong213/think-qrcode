@@ -1,5 +1,5 @@
 {
-  "name": "aone/think-qrcode",
+  "name": "houtian/think-qrcode",
   "description": "QR code generation for thinkphp6",
   "keywords": [
     "thinkphp",
@@ -14,7 +14,7 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "aone",
+      "name": "houtian",
       "email": "840620053@qq.com"
     }
   ],
