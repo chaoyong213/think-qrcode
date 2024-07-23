@@ -25,7 +25,7 @@
   },
   "autoload": {
     "psr-4": {
-      "keinx\\qrcode\\": "src/"
+      "houtian\\qrcode\\": "src/"
     }
   },
   "extra": {

@@ -5,7 +5,7 @@
 // | Author:
 // +----------------------------------------------------------------------
 
-namespace aone\qrcode;
+namespace houtian\qrcode;
 
 use think\Exception;
 use think\facade\Config;
